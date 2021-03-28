@@ -1,0 +1,19 @@
+runtime
+auth
+service mesh
+finance
+accounting
+autorization - RBAC
+audit
+compliance
+
+
+wireframes
+
+
+e
+
+
+Global data model - Schema on read, binary blochained messages
+
+Event Sourcing - Never UPDATE. Ledger Way. Only accretion of facts

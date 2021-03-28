@@ -1,0 +1,105 @@
+Back PRD data
+Build for DEV , QA, HML copies of PRD data on a deploy
+
+The idea is to have multiple arbitrary deploys base on a Env as a Code (IaaC but data added on DB's Queues Configs Features Etc)
+
+Show each and every building block:
+##################################################################
+#                   OPINIONATED                                  #
+#  stacks and system architecture well defined                   #
+#                      It's all about DATA!                      #
+##################################################################
+Immutable
+Datomical
+Event Driven
+High Ordered
+Machine Learnable
+
+
+MACHINE LEVEL 
+- Language bin
+- Folders, Volumes, Disk
+- Container runtime HTOP
+- Affinity: CPU, MEMORY, IO
+- REPL
+- Sidecar
+- Load Balancer
+- Logs
+- Traces
+- Non functional integrations (DB, BROKER, SMTP, STORAGE, 
+- Services
+- Batteries Included
+- Orchestrator: k8s
+- Automation: Jenkins
+- Code: git
+- Cloud
+
+INFRA LEVEL
+- RBAC
+- Security
+- Networking
+- Placement: on-prem, cloud, hibrid
+
+DESIGN LEVEL
+- Configurations, bindings, settings, env vars
+- Microservices / Monoliths
+- APIs, Event Driven
+- Relational, Document, GRAPH, Timeseries
+
+SYSTEM LEVEL
+- Use Cases
+- Unit Tests (functional)
+- Integration Tests
+- DOMAIN
+- Ubiqitious Language
+- REST, EVENTS interfaces (funcional)
+- Preceeding Data
+- Features (toogle enabled)
+- Backup
+- Monitoring
+
+BUSINESS LEVEL
+- BI
+- ETL
+- Reporting
+- Indicators
+- Alarms
+- Insights
+
+AI LEVEL
+- Models
+- Features
+- Labels
+- Decisions
+- Auto Pilot
+
+KATAS
+- CLIs
+- JSON
+- BASH
+- HTOP
+- REST
+- MESSAGING
+- grep
+- nano
+- vi
+
+TOOLS
+- IDE
+- Terminal
+- Linter
+- Formatting
+- Intellisense
+
+PEOPLE
+- DEVs
+- QA
+- Business Analist
+- Architect
+- Client
+- Trainer
+
+
+KINECT
+- Default stacks
+- Reusable Software

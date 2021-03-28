@@ -1,0 +1,30 @@
+proxy - Office Boy
+persistence - bookeeper
+sync / async - tell me now, come back later
+command / query - business transaction saga
+GUI - fill form and submit
+
+SNR - Signal to Noise Ration ie: amount of bullshit per usefullshit
+
+https://en.wikipedia.org/wiki/Cargo_cult_programming
+
+
+Overdose - it's good in small amounts, but, what happens if one uses it everywhere
+
+When coding you only have 3 ways to comunicate: names, spaces and ponctuation (symbols)
+
+
+Smells:
+Personal Rules
+Opinions
+Best Practice
+Patterns
+
+Verbose Naming
+Noisy Logs
+Singletons
+
+Exceptions made in Classes, Interfaces, Enums, logs (logs on try and catchs) if's after a throw
+
+Late binding
+https://github.com/97-things/97-things-every-programmer-should-know/blob/master/en/SUMMARY.md
